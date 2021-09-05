@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 All my Machine Learning, involving Predictive Modelling can be found in this repository
 
+Credit Card Fraud Detection    https://github.com/sagnik765/Credit-Card-Fraud-Detection
+
 Titanic Survival Prediction    https://github.com/sagnik765/Titanic-Survival-Prediction
 
 Spam Mail Detection System    https://github.com/sagnik765/Spam-Mail-Detection
@@ -13,7 +15,7 @@ Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Det
 
 SONAR Rock and Mine Prediction    https://github.com/sagnik765/SONAR-Rock-and-Mine-Prediction
 
-Credit Card Fraud Detection    https://github.com/sagnik765/Credit-Card-Fraud-Detection
+Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
 
 Diabetes Prediction in Patients    https://github.com/sagnik765/Diabetic-Patient-Predictor
 
