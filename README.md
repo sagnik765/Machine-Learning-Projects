@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-All my Machine Learning, involving Predictive Modelling can be found in this repository
+All my Machine Learning projects can be found in this repository
 
 Credit Card Fraud Detection    https://github.com/sagnik765/Credit-Card-Fraud-Detection
 
