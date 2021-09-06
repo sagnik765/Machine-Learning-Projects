@@ -21,4 +21,3 @@ Diabetes Prediction in Patients    https://github.com/sagnik765/Diabetic-Patient
 
 Covid 19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
 
-Amazon Top 50 Bestselling Books Analysis    https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
