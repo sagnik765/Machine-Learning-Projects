@@ -21,5 +21,7 @@ Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
 
 Diabetes Prediction in Patients    https://github.com/sagnik765/Diabetic-Patient-Predictor
 
+Amazon Bestsellers Analysis    https://github.com/sagnik765/Amazon-Top-50-Bestselling-books-Analysis
+
 Covid 19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
 
