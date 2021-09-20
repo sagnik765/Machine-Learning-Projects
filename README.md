@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 All my Machine Learning projects can be found in this repository
 
+Shopping Mall Customer Segmentation    https://github.com/sagnik765/Customer-Segmentation-using-K-Means
+
 Credit Card Fraud Detection    https://github.com/sagnik765/Credit-Card-Fraud-Detection
 
 Titanic Survival Prediction    https://github.com/sagnik765/Titanic-Survival-Prediction
