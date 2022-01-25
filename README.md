@@ -13,11 +13,11 @@ Cat vs Dog vs Car Image Classification    https://github.com/sagnik765/Cat-vs-Do
 
 Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
 
-SONAR Rock and Mine Prediction    https://github.com/sagnik765/SONAR-Rock-and-Mine-Prediction
+Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
 
 //                                 //                                    
 
-Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
+SONAR Rock and Mine Prediction    https://github.com/sagnik765/SONAR-Rock-and-Mine-Prediction
 
 Diabetes Prediction in Patients    https://github.com/sagnik765/Diabetic-Patient-Predictor
 
