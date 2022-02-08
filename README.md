@@ -15,7 +15,9 @@ All my Machine Learning projects can be found in this repository
 
 7. Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
 
-//                                 //                                    
+//                                
+
+//                                    
 
 SONAR Rock and Mine Prediction    https://github.com/sagnik765/SONAR-Rock-and-Mine-Prediction
 
