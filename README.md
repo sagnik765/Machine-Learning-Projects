@@ -14,16 +14,3 @@ All my Machine Learning projects can be found in this repository
 6. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
 
 7. Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
-
-//                                
-
-//                                    
-
-SONAR Rock and Mine Prediction    https://github.com/sagnik765/SONAR-Rock-and-Mine-Prediction
-
-Diabetes Prediction in Patients    https://github.com/sagnik765/Diabetic-Patient-Predictor
-
-Titanic Survival Prediction    https://github.com/sagnik765/Titanic-Survival-Prediction
-
-Covid 19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
-
