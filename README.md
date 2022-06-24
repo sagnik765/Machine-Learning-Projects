@@ -9,8 +9,10 @@ All my Machine Learning projects can be found in this repository
 
 4. Big Mart Sales Prediction    https://github.com/sagnik765/Big-Mart-Sales-Prediction
 
-5. Cat vs Dog vs Car Image Classification    https://github.com/sagnik765/Cat-vs-Dog-Image-Classifier
+5. Covid-19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
 
-6. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
+6. Cat vs Dog vs Car Image Classification    https://github.com/sagnik765/Cat-vs-Dog-Image-Classifier
 
-7. Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
+7. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
+
+8. Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
