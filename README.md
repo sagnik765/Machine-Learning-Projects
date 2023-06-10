@@ -7,12 +7,6 @@ All my Machine Learning projects can be found in this repository
 
 3. Spam Mail Detection System    https://github.com/sagnik765/Spam-Mail-Detection
 
-4. Big Mart Sales Prediction    https://github.com/sagnik765/Big-Mart-Sales-Prediction
+4. Covid-19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
 
-5. Covid-19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
-
-6. Cat vs Dog vs Car Image Classification    https://github.com/sagnik765/Cat-vs-Dog-Image-Classifier
-
-7. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
-
-8. Car Price Prediction    https://github.com/sagnik765/Car-Price-Prediction
+5. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
