@@ -7,6 +7,4 @@ All my Machine Learning projects can be found in this repository
 
 3. Spam Mail Detection System    https://github.com/sagnik765/Spam-Mail-Detection
 
-4. Covid-19 Pandemic Analyzer    https://github.com/sagnik765/Covid-19-Pandemic-Effect-Analyzer
-
-5. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
+4. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
