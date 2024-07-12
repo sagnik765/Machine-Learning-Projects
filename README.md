@@ -17,3 +17,7 @@ Machine Learning Projects:
 4. Breast Cancer Detection System    https://github.com/sagnik765/Breast-Cancer-Detection
 
 5. Financial Markets News Sentiment Analysis https://github.com/sagnik765/Financial-Markets-News-Sentiment-Analysis/tree/main
+
+6. Twitter Sentiment Analysis using NLP    https://github.com/sagnik765/Twitter-Sentiment-Analysis
+
+7. Face Detection using PCA https://github.com/sagnik765/Face-Detection
