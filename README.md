@@ -2,9 +2,11 @@
 
 Deep Learning Projects:
 
-1. American Sign Language Text Conversion System    https://github.com/sagnik765/American-Sign-Language-Text-Convertor
+1. American Sign Language Text Conversion System (major)   https://github.com/sagnik765/American-Sign-Language-Text-Convertor
 
-2. Malaria Infection Detection from Blood Smears    https://github.com/sagnik765/Malaria-Infection-Detection
+2. Malaria Infection Detection from Blood Smears (major)   https://github.com/sagnik765/Malaria-Infection-Detection
+
+3. Text Classification https://github.com/sagnik765/Text-Classification-using-Deep-Learning
 
 Machine Learning Projects:
 
