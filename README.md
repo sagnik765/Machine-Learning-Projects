@@ -1,5 +1,12 @@
 # Machine-Learning-Projects
-All my Machine Learning projects can be found in this repository
+
+Deep Learning Projects:
+
+1. American Sign Language Text Conversion System    https://github.com/sagnik765/American-Sign-Language-Text-Convertor
+
+2. Malaria Infection Detection from Blood Smears    https://github.com/sagnik765/Malaria-Infection-Detection
+
+Machine Learning Projects:
 
 1. Shopping Mall Customer Segmentation    https://github.com/sagnik765/Customer-Segmentation-using-K-Means
 
